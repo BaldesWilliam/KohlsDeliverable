@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kohls Deliverable</string>
+    <string name="search">Search</string>
+    <string name="item_picture">Item Picture</string>
+    <string name="wallmart_key">zma8hpvguj7t7f36bbzx82zn</string>
+    <string name="search_warning_toast">You must input something to search</string>
+    <string name="lazy_load_limit_message">Can not Load any more items.</string>
+    <string name="scan_button_text">ScanItem</string>
+    <string name="buy_button_text">Purchase</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="add_to_cart_butt_text">Add to Cart</string>
+
+
+</resources>
