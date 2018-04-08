@@ -36,6 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:layout_marginStart="8dp"
+        android:textColor="#000"
         app:layout_constraintBottom_toTopOf="@+id/btnBuyButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
